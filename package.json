@@ -1,0 +1,22 @@
+{
+  "name": "workbox-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --config webpack.config.server.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "html-loader": "^0.5.5",
+    "nodemon-webpack-plugin": "^4.0.8",
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.4",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "description": ""
+}
